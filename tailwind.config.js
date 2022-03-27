@@ -8,6 +8,9 @@ module.exports = {
       fontFamily: {
         headline: ['Oswald'],
       },
+      colors: {
+        mainColor: '#212f49',
+      },
     },
   },
   plugins: [require('tailwindcss-debug-screens')],
