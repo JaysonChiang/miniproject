@@ -1,5 +1,8 @@
 module.exports = {
-  content: [],
+  purge: {
+    enabled: true,
+    content: ['./dist/**/*.html'],
+  },
   darkMode: 'class',
   theme: {
     debugScreens: {
