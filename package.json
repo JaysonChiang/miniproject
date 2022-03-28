@@ -18,6 +18,8 @@
     "tailwindcss": "^2.0.2"
   },
   "devDependencies": {
+    "prettier": "^2.6.1",
+    "prettier-plugin-tailwindcss": "^0.1.8",
     "tailwindcss-debug-screens": "^2.0.0"
   }
 }
